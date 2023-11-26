@@ -33,3 +33,4 @@ wheel
 ujson
 wget
 pytz
+pyromod
